@@ -1,0 +1,20 @@
+{
+    "name": "ReHotkey",
+    "long_description": "<h2>This ridiculously awful plugin force reloads all CSS when pressing the F9 key, requires Chrome DevTools to be opened.</h2>\n<p>This is what I've been using since Flashcord's Closed Alpha to have less headaches coding and testing Flashcord.\n Feel free to improve on this bullshit and actually use the Replugged Plugin API to add settings and all that shit if you want. I won't care personally, this does the job.</p><h3>This is very useful if your main.css only has @imports to other CSS files, if you're too stupid like me to use SCSS or idk</h3>",
+    "short_description": "A VERY quick and VERY dirty & awful plugin to reload all CSS with the press of 'F9' ",
+    "version": "v1.0",
+    "author": "SiriusBYT",
+    "contributors": "None",
+    "github_repo": "https://github.com/SiriusBYT/ReHotkey",
+    "img_store": "banner.jpg",
+    "img_embed": "banner.jpg",
+    "license": "Unlicense",
+    "license_year": "2024",
+    "is_rpplugin": true,
+    "is_rptheme": false,
+    "images_are_full_links": false,
+    "internal_name": "rehotkey",
+    "discord_link": "https://sirio-network.com/redirect/discord",
+    "sndl_theme": "Light",
+    "embed_color": "#FF69FF"
+}
