@@ -1,11 +1,7 @@
-# Replugged plugin template
+## This ridiculously awful plugin force reloads all CSS when pressing the F9 key, requires Chrome DevTools to be opened.
 
-See the [plugin development guide](https://guide.replugged.dev/docs/plugins/getting-started) for
-more information on using this template.
+This is what I've been using since Flashcord's Closed Alpha to have less headaches coding and testing Flashcord.
 
-# License
+Feel free to improve on this bullshit and actually use the Replugged Plugin API to add settings and all that shit if you want. I won't care personally, this does the job. 
 
-The [plugin template](https://github.com/replugged-org/plugin-template) is licensed under the
-[MIT](https://opensource.org/license/mit/) license. However, addons using this template are not
-necessarily licensed under MIT. Developers are encouraged to add a license file to their repository,
-but if none exists, the repository should be considered as unlicensed.
+### This is very useful if your main.css only has @imports to other CSS files, if you're too stupid like me to use SCSS or idk
