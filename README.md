@@ -1,3 +1,9 @@
+<H1 align="left"> View this BS on the 
+  <a href="https://sirio-network.com/flashcord/store/plugins/siriusbyt/rehotkey">
+    <img align="center" src="https://sirio-network.com/flashcord/ressources/store/small-embed.png" width="386">
+  </a> (wow)
+</H1>
+
 ## This ridiculously awful plugin force reloads all CSS when pressing the F9 key, requires Chrome DevTools to be opened.
 
 This is what I've been using since Flashcord's Closed Alpha to have less headaches coding and testing Flashcord.
