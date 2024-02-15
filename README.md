@@ -1,5 +1,5 @@
 <H1 align="left"> View this BS on the 
-  <a href="https://sirio-network.com/flashcord/store/plugins/siriusbyt/rehotkey">
+  <a href="https://sirio-network.com/flashcord/store/plugins/siriusbyt/rehotkey.html">
     <img align="center" src="https://sirio-network.com/flashcord/ressources/store/small-embed.png" width="386">
   </a> (wow)
 </H1>
