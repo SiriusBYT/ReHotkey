@@ -1,20 +1,20 @@
 {
-  "id": "dev.replugged.PluginTemplate",
-  "name": "Plugin Template",
-  "description": "A plugin template",
+  "id": "com.sirio-network.rehotkey",
+  "name": "ReHotkey",
+  "description": "A VERY quick and VERY dirty & awful plugin to reload all CSS with the press of 'F9' ",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "SiriusBYT",
+    "discordID": "311057290562371586",
+    "github": "SiriusBYT"
   },
   "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/plugin-template"
+    "id": "SiriusBYT/ReHotkey"
   },
-  "license": "MIT",
+  "license": "Unlicense",
   "type": "replugged-plugin",
   "renderer": "src/index.ts",
-  "source": "https://github.com/replugged-org/plugin-template",
-  "image": ["https://i.imgur.com/14CNs3a.png?CHANGE-THIS-URL"]
+  "source": "https://github.com/SiriusBYT/ReHotkey",
+  "image": ["https://sirio-network.com/flashcord/store/plugins/siriusbyt/rehotkey-files/banner.jpg"]
 }
