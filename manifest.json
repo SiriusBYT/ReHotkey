@@ -16,5 +16,24 @@
   "type": "replugged-plugin",
   "renderer": "src/index.ts",
   "source": "https://github.com/SiriusBYT/ReHotkey",
-  "image": ["https://sirio-network.com/flashcord/store/plugins/siriusbyt/rehotkey-files/banner.jpg"]
+  "image": ["https://sirio-network.com/flashcord/store/plugins/siriusbyt/rehotkey-files/banner.jpg"],
+  "flashcord": {
+    "general_information": {
+        "contributors": "None",
+        "discord_link": "https://sirio-network.com/redirect/discord",
+        "license_year": "2024",
+        "sndl_theme": "Light",
+        "embed_color": "#FF69FF",
+        "tags": [
+            "Development",
+            "Companion Plugin"
+        ]
+    },
+    "internal_structure": {
+        "internal_name": "rehotkey",
+        "image_store": "banner.jpg",
+        "image_embed": "banner.jpg",
+        "backup_files": false
+    }
+  }
 }
